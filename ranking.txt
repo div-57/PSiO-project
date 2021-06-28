@@ -1,0 +1,5 @@
+Dawid;213
+Tomasz;203
+Jacek;197
+Adrian;189
+Marcin;139
